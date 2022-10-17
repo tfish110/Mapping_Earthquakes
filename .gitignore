@@ -1,3 +1,7 @@
+# Adding config.js to protect private API key
+
+config.js
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
